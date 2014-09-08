@@ -4,7 +4,7 @@ title: Getting things started
 excerpt: Just a little BASH fun
 ---
 # Learning
-This is just a little post to tell you about a little script that took too long to wriate to do too little. But, it's here, and that's what counts.
+This is just a little post to tell you about a little script that took too long to write to do too little. But, it's here, and that's what counts.
 
 Writing for the sake of writing is worth something, even if that something is only to keep the stream of thoughts in your head from pooling up and drowning you!
 
